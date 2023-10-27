@@ -1,0 +1,3 @@
+Band Name Generator
+
+Built Using EJS CONCEPST LIKE EJS PARTIALS AND LAYOUT.
